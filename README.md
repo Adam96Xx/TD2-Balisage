@@ -9,7 +9,7 @@
 Ce dépôt GitHub héberge notre travail de recherche concernant l'impact de la technologie sur la carrière du duo légendaire **Daft Punk**. Nous analysons comment l'utilisation de machines analogiques, le développement de systèmes robotiques embarqués et le déploiement d'une stratégie marketing numérique ont révolutionné l'industrie musicale mondiale.
 
 ### Membres de l'équipe
-*   **Adam EL OMARI** : Responsable de la *Partie 1 : Ingénierie Musicale & Hardware*
+*   **Adam EL OMARI** : Responsable de la *Partie 1 : Ingénierie Musicale & Hardware et (**Partie Github**)*
 *   **Adam EL KHALFAOUI** : Responsable de la *Partie 2 : Identité Visuelle & Robotique*
 *   **Anas SAHIL** : Responsable de la *Partie 3 : Stratégie Marketing & Communication*
 
