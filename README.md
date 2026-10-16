@@ -24,7 +24,7 @@ Vous pouvez explorer l'intégralité de nos analyses rédigées en **MediaWiki**
 *   **1B. Boîtes à rythmes :** L'énergie brute et la manipulation en direct de la mythique `Roland TR-909`.
 *   **1C. Effet signature :** L'effet de pompage (*sidechain compression*) via le compresseur abordable `Alesis 3630`.
 
-### [Partie 2 : Identité Visuelle & Robotique]([../../wiki/Partie-2)](https://github.com/Adam96Xx/TD2-Balisage/wiki/Media%3APartie_2_Daft_Punk.docx).
+### [Partie 2 : Identité Visuelle & Robotique](https://github.com/Adam96Xx/TD2-Balisage/wiki/Media%3APartie_2_Daft_Punk.docx).
 *   **2A. Technologie des casques :** Intégration de circuits électroniques et d'affichages LED dynamiques.
 *   **2B. Projets cinématographiques :** Étude du film d'animation *Interstella 5555* et du long-métrage *Electroma*.
 
