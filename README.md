@@ -46,6 +46,7 @@ Vous pouvez explorer l'intégralité de nos analyses rédigées en **MediaWiki**
 
 ## Contenu de ce Dépôt (Fichiers Annexes)
 En plus du contenu textuel rédigé sur le Wiki, ce dépôt contient nos rapports d'étude rédigés sur traitement de texte :
+
 *   `Partie_1_Daft_Punk.docx` : Rapport écrit complet regroupant les recherches de la Partie 1 (sampling, rythmes et compression).
 *   `Partie_2_Daft_Punk.docx` : Rapport écrit complet regroupant les recherches de la Partie 2 ().
 *   `Partie_3_Daft_Punk.docx` : Rapport écrit complet regroupant les recherches de la Partie 3 ()
@@ -53,9 +54,15 @@ En plus du contenu textuel rédigé sur le Wiki, ce dépôt contient nos rapport
 ---
 
 ## Bibliographie Principale
+### Presse Spécialisée et Analyses Techniques (Musique & Hardware)
 *   **Sound on Sound Magazine** — *Daft Punk: Recording Random Access Memories & Homework Archives*.
 *   **DJ Mag France** — *Daft Punk : les secrets de l'art du sample décryptés*.
+*   **Vintage Synth Explorer** — Technical Specifications: Roland TR-909, Ensoniq ASR-10, E-mu SP-1200 & Alesis 3630*.
+### Ressources Cinématographiques & Visuelles
+*   **Toei Animation Studio & Matsumoto, L.** — Interstella 5555: The Story of the Secret Star System (2003).*.
+*   **Daft Punk Fandom & Alterian Inc.** — Behind the scenes of the first photoshoot with the helmets (Archives Twitter / X, rééditées en 2021)*.
+### Documentaires et Médias Grand Public (Histoire & Marketing)
 *   **Arte** — Documentaire *French Touch : la patte de la musique électronique française*.
-
+*   **BBC Worldwide / Canal+** — Daft Punk Unchained (Film Documentaire)*.
 ---
 *Ce document a été réalisé dans le cadre pédagogique d'un TD sur les langages de balisage léger sous licence CC BY-NC-SA.*
