@@ -56,4 +56,5 @@ Vous pouvez explorer l'intégralité de nos analyses rédigées en **MediaWiki**
 *   **Arte** — Documentaire *French Touch : la patte de la musique électronique française*.
 *   **BBC Worldwide / Canal+** — Daft Punk Unchained (Film Documentaire)*.
 ---
-*Ce document a été réalisé dans le cadre pédagogique d'un TD sur les langages de balisage léger sous licence CC BY-NC-SA.*
+*Ce document a été réalisé dans le cadre pédagogique d'un TD sur les langages de balisage léger sous licence 
+CC BY-NC-SA.*
