@@ -28,7 +28,7 @@ Vous pouvez explorer l'intégralité de nos analyses rédigées en **MediaWiki**
 *   **2A. Technologie des casques :** Intégration de circuits électroniques et d'affichages LED dynamiques.
 *   **2B. Projets cinématographiques :** Étude du film d'animation *Interstella 5555* et du long-métrage *Electroma*.
 
-### [Partie 3 : Stratégie Marketing & Communication](../../wiki/Partie-3)
+### [Partie 3 : Stratégie Marketing & Communication](https://github.com/Adam96Xx/TD2-Balisage/wiki/Media:Partie_3_Daft_Punk.docx))
 *   **3A. Culte de l'anonymat :** Utilisation du secret et disparition médiatique pour valoriser l'art.
 *   **3B. Campagnes virales :** Gestion du buzz mondial à l'aide de micro-teasers chirurgicaux.
 
