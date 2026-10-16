@@ -19,7 +19,7 @@ Ce dépôt GitHub héberge notre travail de recherche concernant l'impact de la 
 
 Vous pouvez explorer l'intégralité de nos analyses rédigées en **MediaWiki** directement dans l'onglet [Wiki](../../wiki) de ce dépôt. Voici le détail de notre plan d'étude :
 
-### [Partie 1 : Ingénierie Musicale & Hardware](../../wiki/Partie-1)
+### [Partie 1 : Ingénierie Musicale & Hardware](https://github.com/Adam96Xx/TD2-Balisage/wiki/Media%3APartie_1_Daft_Punk.docx)
 *   **1A. L'art du sampling :** Analyse des échantillonneurs clés comme l'Ensoniq ASR-10 et l'E-mu SP-1200 (12-bit).
 *   **1B. Boîtes à rythmes :** L'énergie brute et la manipulation en direct de la mythique `Roland TR-909`.
 *   **1C. Effet signature :** L'effet de pompage (*sidechain compression*) via le compresseur abordable `Alesis 3630`.
